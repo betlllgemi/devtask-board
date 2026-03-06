@@ -29,8 +29,8 @@ DevTask Board is a Kanban-style task management application developed with React
 
 ## Live Demo
 
-Netlify link will be added here.
+devtask-board.netlify.app
 
 ## GitHub Repository
 
-GitHub link will be added here.
+https://github.com/betlllgemi/devtask-board
